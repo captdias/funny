@@ -1,0 +1,795 @@
+[
+  {
+    "id": "sitronlaks",
+    "title": "Ovnsbakt laks med sitron",
+    "description": "Saftig laks, sprø poteter og en frisk smak av sitron.",
+    "minutes": 30,
+    "servings": 4,
+    "emoji": "🐟",
+    "color": "peach",
+    "category": "Fisk",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 600,
+        "unit": "g",
+        "name": "laksefilet",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "amount": 800,
+        "unit": "g",
+        "name": "poteter",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "sitron",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "brokkoli",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 2,
+        "unit": "ss",
+        "name": "olivenolje",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Sett ovnen på 200 °C. Del potetene i båter og vend dem med halvparten av oljen. Stek i 20 minutter.",
+      "Legg laks og brokkolibuketter i formen. Drypp over resten av oljen og press over sitron.",
+      "Stek videre i 12–15 minutter, til fisken er gjennomstekt. Smak til med salt og pepper."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "kyllingbowl",
+    "title": "Fargerik kyllingbowl",
+    "description": "En skål full av gode farger, ris og saftig kylling.",
+    "minutes": 25,
+    "servings": 4,
+    "emoji": "🥑",
+    "color": "green",
+    "category": "Kylling",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 600,
+        "unit": "g",
+        "name": "kyllingfilet",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "ris",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 2,
+        "unit": "stk",
+        "name": "avokado",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "agurk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "lime",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "ss",
+        "name": "olivenolje",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Kok risen etter anvisningen på pakken.",
+      "Skjær kyllingen i biter og stek i olje til den er helt gjennomstekt. Krydre med salt og pepper.",
+      "Skjær avokado og agurk i biter. Fordel alt i skåler og press lime over."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "taco",
+    "title": "Fredagstaco med maislefser",
+    "description": "Den faste fredagsfavoritten, naturlig glutenfri.",
+    "minutes": 20,
+    "servings": 4,
+    "emoji": "🌮",
+    "color": "yellow",
+    "category": "Kjøtt",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "kjøttdeig",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "amount": 8,
+        "unit": "stk",
+        "name": "glutenfrie maislefser",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 2,
+        "unit": "stk",
+        "name": "tomater",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "avokado",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "lime",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "revet ost",
+        "category": "Meieri"
+      },
+      {
+        "amount": 2,
+        "unit": "ts",
+        "name": "glutenfritt tacokrydder",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Brun kjøttdeigen i en varm stekepanne. Tilsett tacokrydder og litt vann, og la det småkoke.",
+      "Del tomater og avokado i små biter. Press lime over avokadoen.",
+      "Varm maislefsene etter anvisningen på pakken. Fyll med kjøtt, grønnsaker og ost."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "linsegryte",
+    "title": "Kremet linsegryte",
+    "description": "Varmende kokosgryte med røde linser og spinat.",
+    "minutes": 30,
+    "servings": 4,
+    "emoji": "🍲",
+    "color": "pink",
+    "category": "Vegetar",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "røde linser",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 400,
+        "unit": "ml",
+        "name": "kokosmelk",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "hakkede tomater",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "løk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 2,
+        "unit": "fedd",
+        "name": "hvitløk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "spinat",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 2,
+        "unit": "ts",
+        "name": "glutenfritt karripulver",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 1,
+        "unit": "ss",
+        "name": "olivenolje",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Finhakk løk og hvitløk. Fres i olje med karripulver i et par minutter.",
+      "Skyll linsene. Ha dem i gryten med tomater, kokosmelk og 2 dl vann. La småkoke i omtrent 20 minutter til linsene er møre.",
+      "Vend inn spinaten og la den falle sammen. Smak til med salt og pepper."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "tomatpasta",
+    "title": "Pasta med tomat og basilikum",
+    "description": "En enkel hverdagsfavoritt med en fyldig tomatsaus.",
+    "minutes": 20,
+    "servings": 4,
+    "emoji": "🍝",
+    "color": "peach",
+    "category": "Vegetar",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "glutenfri pasta",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 800,
+        "unit": "g",
+        "name": "hakkede tomater",
+        "category": "Basisvarer"
+      },
+      {
+        "amount": 2,
+        "unit": "fedd",
+        "name": "hvitløk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "løk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 50,
+        "unit": "g",
+        "name": "parmesan",
+        "category": "Meieri"
+      },
+      {
+        "amount": 2,
+        "unit": "ss",
+        "name": "olivenolje",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Finhakk løk og hvitløk. Fres i olivenolje til løken er myk.",
+      "Tilsett hakkede tomater og la sausen småkoke i 15 minutter. Smak til med salt og pepper.",
+      "Kok glutenfri pasta etter anvisningen. Vend den i sausen og server med revet parmesan og eventuelt frisk basilikum."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "torsk",
+    "title": "Torsk med potetmos",
+    "description": "Mild torsk og hjemmelaget, luftig potetmos.",
+    "minutes": 35,
+    "servings": 4,
+    "emoji": "🍽️",
+    "color": "blue",
+    "category": "Fisk",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 600,
+        "unit": "g",
+        "name": "torskefilet",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "amount": 800,
+        "unit": "g",
+        "name": "poteter",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 200,
+        "unit": "ml",
+        "name": "melk",
+        "category": "Meieri"
+      },
+      {
+        "amount": 40,
+        "unit": "g",
+        "name": "smør",
+        "category": "Meieri"
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "gulrøtter",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "sitron",
+        "category": "Frukt og grønt"
+      }
+    ],
+    "instructions": [
+      "Skrell og kok potetene møre i usaltet vann. Kok gulrøttene i en egen kjele.",
+      "La torsken trekke i lettsaltet vann i 8–10 minutter, til fisken flaker seg.",
+      "Hell vannet av potetene og mos med smør og varm melk. Server med fisk, gulrøtter og sitron."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "kyllingform",
+    "title": "Kyllingform med rotgrønnsaker",
+    "description": "Alt i én form. Lite oppvask, masse god smak.",
+    "minutes": 45,
+    "servings": 4,
+    "emoji": "🍗",
+    "color": "yellow",
+    "category": "Kylling",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 600,
+        "unit": "g",
+        "name": "kyllingfilet",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "amount": 600,
+        "unit": "g",
+        "name": "poteter",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "gulrøtter",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "stk",
+        "name": "løk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 2,
+        "unit": "fedd",
+        "name": "hvitløk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 2,
+        "unit": "ss",
+        "name": "olivenolje",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Sett ovnen på 200 °C. Del poteter, gulrøtter og løk i omtrent like store biter.",
+      "Legg grønnsakene i en form. Vend med olje, finhakket hvitløk, salt og pepper. Stek i 20 minutter.",
+      "Legg kyllingen oppå og stek videre i 20–25 minutter. Kontroller at kyllingen er helt gjennomstekt."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "omelett",
+    "title": "Grønn omelett med feta",
+    "description": "En rask og lett middag med spinat og fetaost.",
+    "minutes": 15,
+    "servings": 4,
+    "emoji": "🥚",
+    "color": "green",
+    "category": "Vegetar",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "amount": 8,
+        "unit": "stk",
+        "name": "egg",
+        "category": "Meieri"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "spinat",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "fetaost",
+        "category": "Meieri"
+      },
+      {
+        "amount": 2,
+        "unit": "stk",
+        "name": "tomater",
+        "category": "Frukt og grønt"
+      },
+      {
+        "amount": 1,
+        "unit": "ss",
+        "name": "olivenolje",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Visp sammen eggene med litt salt og pepper.",
+      "Varm olje i en stor panne og la spinaten falle sammen. Hell i eggene og fordel fetaost over.",
+      "Stek på lav varme under lokk til eggene har stivnet. Server med tomater i båter."
+    ],
+    "source": {
+      "name": "Eksempeloppskrift",
+      "url": null
+    }
+  },
+  {
+    "id": "matprat-glutenfrie-pizzasnurrer",
+    "title": "Glutenfrie pizzasnurrer",
+    "description": "Glutenfrie pizzasnurrer fylt med ost og skinke er perfekt både som turmat, i matpakken, til skoleavslutningen eller barnebursdagen. Nam! Middels vanskelighetsgrad",
+    "minutes": 80,
+    "servings": 1,
+    "batch": true,
+    "yieldNote": "1 PORSJONER (Du får ca. 14 pizzasnurrer av en porsjon av denne deigen.)",
+    "emoji": "🍕",
+    "color": "peach",
+    "category": "Kjøtt",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "name": "smør",
+        "amount": 150,
+        "unit": "g",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "melk",
+        "amount": 6,
+        "unit": "dl",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "tørrgjær",
+        "amount": 1,
+        "unit": "pk",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "fiberhusk",
+        "amount": 1.5,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "jyttemel",
+        "amount": 250,
+        "unit": "g",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "semper mix",
+        "amount": 500,
+        "unit": "g",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "salt",
+        "amount": 2,
+        "unit": "ts",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "sukker",
+        "amount": 1,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "bakepulver",
+        "amount": 1,
+        "unit": "ts",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "pizzasaus (200 gram)",
+        "amount": 2,
+        "unit": "dl",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "kokt skinke eller kalkunpålegg",
+        "amount": 150,
+        "unit": "g",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "name": "revet ost",
+        "amount": 300,
+        "unit": "g",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "pizzakrydder eventuelt oregano, paprikapulver og/eller hvitløkspulver.",
+        "amount": 1,
+        "unit": "ts",
+        "category": "Frukt og grønt"
+      },
+      {
+        "name": "egg til pensling",
+        "amount": 1,
+        "unit": "stk",
+        "category": "Meieri og egg"
+      }
+    ],
+    "instructions": [
+      "Smelt smør, ha i melk og varm blandingen opp til den er fingervarm (37 °C).",
+      "Ha i gjær og fiberhusk, rør blandingen sammen og la det svelle i 5-10 minutter.",
+      "Bland sammen mel, salt, sukker og bakepulver i bollen til en kjøkkenmaskin. Hell i væsken og elt deigen godt sammen. Du kan også elte deigen for hånd. Dekk til bollen og la deigen heve til dobbel størrelse.",
+      "Kjevle deigen ut til et stort rektangel. Smør på et lag pizzasaus, dryss på revet ost og skinke skåret i terninger. Krydre med pizzakrydder eller annet krydder du liker godt. Varier gjerne fyllet med andre ting du liker å ha på pizza, for eksempel paprika i terninger, finhakket løk, stekt kjøttdeig, pepperoni med mer.",
+      "Rull sammen deigen på samme måte som til en rullekake, og skjær 3 cm brede stykker av rullen.",
+      "Legg dem på et bakepapirkledd stekebrett. Trykk eventuelt snurrene litt ned, så de blir bredere og ikke så høye. Etterhev i ca. 20 minutter.",
+      "Forvarm stekeovnen til 225 °C. Pensle snurrene med et sammenvispet egg. Stek dem midt i ovnen i ca. 15 minutter. Avkjøl snurrene litt på rist før servering."
+    ],
+    "source": {
+      "name": "Matprat",
+      "url": "https://www.matprat.no/oppskrifter/familien/glutenfrie-pizzasnurrer/",
+      "scrapedAt": "2026-10-22T11:30:01.584Z"
+    }
+  },
+  {
+    "id": "matprat-glutenfrie-fylte-horn",
+    "title": "Glutenfrie fylte horn",
+    "description": "Saftige, glutenfrie horn fylt med ost, skinke og hasselnøtter er godt å ha i matpakken, tursekken eller som serveringi bursdager, avslutninger og dugnader. Middels vanskelighetsgrad",
+    "minutes": 80,
+    "servings": 1,
+    "batch": true,
+    "yieldNote": "1 PORSJONER (1 porsjon gir 14 horn)",
+    "emoji": "🥐",
+    "color": "green",
+    "category": "Kjøtt",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "name": "smør",
+        "amount": 150,
+        "unit": "g",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "melk",
+        "amount": 6,
+        "unit": "dl",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "tørrgjær",
+        "amount": 1,
+        "unit": "pk",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "fiberhusk",
+        "amount": 1.5,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "jyttemel",
+        "amount": 250,
+        "unit": "g",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "semper mix",
+        "amount": 500,
+        "unit": "g",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "salt",
+        "amount": 2,
+        "unit": "ts",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "sukker",
+        "amount": 1,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "bakepulver",
+        "amount": 1,
+        "unit": "ts",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "kokt skinke",
+        "amount": 110,
+        "unit": "g",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "name": "revet ost",
+        "amount": 200,
+        "unit": "g",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "grovhakkede hasselnøtter ( kan sløyfes )",
+        "amount": 2,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "egg til pensling",
+        "amount": 1,
+        "unit": "stk",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "gresskarkjerner til pynt",
+        "amount": 0.5,
+        "unit": "dl",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Smelt smør, ha i melk og varm blandingen opp til den er fingervarm (37 °C).",
+      "Ha i gjær og fiberhusk, rør blandingen sammen og la det svelle i 5-10 minutter.",
+      "Bland sammen mel, salt, sukker og bakepulver i bollen til en kjøkkenmaskin. Hell i væsken og elt deigen godt sammen. Du kan også elte deigen for hånd. Dekk bollen med et klede og la den heve til dobbel størrelse.",
+      "Del deigen i tre emner og kjevle hver leiv ut til en stor sirkel. Bruk et pizzahjul eller en kniv og del hver sirkel opp i åtte snipper.",
+      "Legg på ost, skinke og nøtter i ytterkant av hver snipp. Rull sammen inn mot midten slik at det formes et horn. Sett dem på et bakepapirkledd stekebrett og etterhev under klede i ca. 30 minutter.",
+      "Forvarm stekeovn til 225 °C. Pensle hornene med et sammenvispet egg, og strø på gresskarkjerner.",
+      "Stek hornene i stekeovn til de har fått en fin gyllen farge og er gjennomstekt, ca. 15 minutter. Avkjøl hornene på rist."
+    ],
+    "source": {
+      "name": "Matprat",
+      "url": "https://www.matprat.no/oppskrifter/familien/glutenfrie-fylte-horn/",
+      "scrapedAt": "2026-10-22T11:30:07.422Z"
+    }
+  },
+  {
+    "id": "matprat-grove-glutenfrie-pannekaker",
+    "title": "Grove glutenfrie pannekaker",
+    "description": "Gode og mettende, grove pannekaker uten gluten! De glutenfrie pannekakene serveres med spekeskinke, blåmuggost og sprø spinat. Enkel vanskelighetsgrad",
+    "minutes": 40,
+    "servings": 4,
+    "batch": false,
+    "emoji": "🥞",
+    "color": "peach",
+    "category": "Kjøtt",
+    "glutenFree": true,
+    "ingredients": [
+      {
+        "name": "smør",
+        "amount": 75,
+        "unit": "g",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "semper grov mix",
+        "amount": 4,
+        "unit": "dl",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "linfrø",
+        "amount": 2,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "sesamfrø",
+        "amount": 2,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "glutenfrie havregryn",
+        "amount": 1,
+        "unit": "dl",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "lettmelk eller plantebasert melk",
+        "amount": 8,
+        "unit": "dl",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "egg",
+        "amount": 4,
+        "unit": "stk",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "spekeskinke",
+        "amount": 8,
+        "unit": "skiver",
+        "category": "Fisk og kjøtt"
+      },
+      {
+        "name": "blåmuggost á 125 g",
+        "amount": 1,
+        "unit": "pk",
+        "category": "Meieri og egg"
+      },
+      {
+        "name": "babyspinat á 65 g",
+        "amount": 1,
+        "unit": "pk",
+        "category": "Frukt og grønt"
+      },
+      {
+        "name": "olivenolje",
+        "amount": 1,
+        "unit": "ss",
+        "category": "Basisvarer"
+      },
+      {
+        "name": "kvernet pepper",
+        "amount": 0.5,
+        "unit": "ts",
+        "category": "Basisvarer"
+      }
+    ],
+    "instructions": [
+      "Smelt smør i en liten kasserolle.",
+      "Bruk en stavmikser og kjør sammen glutenfritt mel, knuste linfrø, sesamfrø, glutenfrie havregryn, melk, egg og smeltet smør i en bolle. La røren svelle i 5 minutter.",
+      "Stek pannekaker i en middels varm panne til de er gyllenbrune på begge sider. Smør gjerne pannen mellom hver pannekake slik at det ikke svir seg.",
+      "Server pannekakene med spekeskinke, biter av blåmuggost og frisk spinat. Drypp over litt god olivenolje og krydre med litt grovkvernet pepper."
+    ],
+    "source": {
+      "name": "Matprat",
+      "url": "https://www.matprat.no/oppskrifter/kos/grove-glutenfrie-pannekaker/",
+      "scrapedAt": "2026-10-22T11:30:12.943Z"
+    }
+  }
+]
